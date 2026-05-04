@@ -432,6 +432,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Provides real-time translation of text, documents, and content between multiple languages.
 
+- <img src="https://github.com/theluckystrike/bln-mcp-grammar-server/raw/main/favicon.ico" height="14"/> [BeLikeNative Grammar Server](https://github.com/theluckystrike/bln-mcp-grammar-server) - L1-aware grammar, spelling, and style checking with 70 local rules. Zero API keys needed.
 - <img src="https://laratranslate.com/favicon.ico" height="14"/> [Lara](https://github.com/translated/lara-mcp)<sup><sup>⭐</sup></sup> - MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations
 
 <br />
