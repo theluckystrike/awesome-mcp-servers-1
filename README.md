@@ -154,6 +154,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
 
 
+- <img src="https://avatars.githubusercontent.com/theluckystrike?s=200&v=4" height="14"/> [MCP Spreadsheet](https://github.com/theluckystrike/mcp-servers/tree/main/servers/spreadsheet) - Read, query, edit and convert xlsx and csv files safely. Filters, stats, computed columns and format conversion with no eval.
 <br />
 
 ## 🗄️ <a name="databases"></a>Databases
@@ -297,6 +298,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.make.com/favicon.ico" height="14"/> [Make](https://github.com/integromat/make-mcp-server)<sup><sup>⭐</sup></sup> - Turn Make scenarios into callable tools for AI assistants.
 - <img src="https://www.taskade.com/favicon.ico" height="14"/> [Taskade MCP](https://github.com/taskade/mcp)<sup><sup>⭐</sup></sup> - Official Taskade MCP server + OpenAPI → MCP codegen to build AI agent tools from any API and connect Taskade to Claude, Cursor, and more.
 
+- <img src="https://avatars.githubusercontent.com/theluckystrike?s=200&v=4" height="14"/> [MCP Time Tracker](https://github.com/theluckystrike/mcp-servers/tree/main/servers/time-tracker) - Track billable time without leaving the chat. Local timers, per-project hourly rates, reports and CSV export.
 <br />
 
 ## 🤖 <a name="system-automation"></a>System Automation
@@ -347,6 +349,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pub.pbkrs.com/files/202211/TNosrY77nCxm6rtU/logo-without-title.svg" height="14"/> [LongPort OpenAPI](https://github.com/longportapp/openapi/tree/main/mcp)<sup><sup>⭐</sup></sup> - Provides real-time stock market data, provides AI access analysis and trading capabilities through MCP.
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
 
+- <img src="https://avatars.githubusercontent.com/theluckystrike?s=200&v=4" height="14"/> [MCP Invoice](https://github.com/theluckystrike/mcp-servers/tree/main/servers/invoice) - Numbered invoices with tax lines, rendered to a professional PDF. Sequential numbering, multi-rate VAT and overdue reporting, all local.
 <br />
 
 ## 🧬 <a name="research-data"></a>Research & Data
@@ -486,6 +489,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.mercadolibre.com.ar/favicon.ico" height="14" alt="MercadoLibre Logo" /> [Mercado Libre](https://mcp.mercadolibre.com/) - Mercado Libre's official MCP server, offering tools to interact with our marketplace, simplifying tasks and product integration.
 - <img src="https://shopsavvy.com/favicon.ico" height="14" alt="ShopSavvy Logo" /> **[ShopSavvy](https://github.com/shopsavvy/shopsavvy-mcp-server)**<sup><sup>⭐</sup></sup> - Complete product and pricing data solution for AI assistants. Search for products by barcode/ASIN/URL, access detailed product metadata, access comprehensive pricing data from thousands of retailers, view and track price history, and more. Published as `@shopsavvy/mcp-server`.
 
+- <img src="https://avatars.githubusercontent.com/theluckystrike?s=200&v=4" height="14"/> [MCP Price Tracker](https://github.com/theluckystrike/mcp-servers/tree/main/servers/price-tracker) - Check and watch product prices on ordinary shop pages. Extracts prices from JSON-LD, microdata and Open Graph, with price history and drop alerts.
 <br />
 
 ## 📦 <a name="data-platforms"></a>Data Platforms
